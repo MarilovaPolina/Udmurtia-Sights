@@ -1,0 +1,16 @@
+AddDefaultCharset utf-8 
+#Redirect /index.php http://localhost/about.php
+
+#RedirectMatch (.+\.php)$ /index.php?id_city=1
+
+RewriteCond %{QUERY_STRING} ^id_city=(.*)$ [NC]
+RewriteRule ^index\.php$ /new/sef/? [R=301,L]
+
+php_value error_reporting -1
+php_flag display_errors on
+php_flag display_startup_errors on
+php_flag ignore_repeated_source off
+php_flag ignore_repeated_errors off
+php_flag track_errors on
+php_flag log_errors on
+php_flag mysql.trace_mode on
