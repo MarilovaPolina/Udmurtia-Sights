@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://psv4.userapi.com/s/v1/d/FXE4ZuW7S8AWLLjRMO873yPywQ40HiCkphiNBVxBpuaI3ftjXjxr9pRLFQKxc1c12aqPz0znRCgX81iBM7RDccbhz5Ro-uri6hesFvjEKV9Hc7E34zq_sg/full_logo.png" width="400" alt="Лого сайта">
 </p>
-<h2 align="center">Хакатнон "Открывай Удмуритю" – Отборочный тур</h2>
+<h2 align="center">Хакатон "Открывай Удмуртию" – Отборочный тур</h2>
 <p align="center"><i>Команда "Авитаминоз"</i></p>
 <p align="center">
     <img src="https://sun9-62.userapi.com/impg/4N0RF-U0HTSTHXPDKOKCxvYUlqv2MvO5Fkwi7w/N1yiEhgghwc.jpg?size=1280x1280&quality=96&sign=c208d9a7f022088d81c506e6133e87f5&type=album" width="150" alt="Постер хакатона">
