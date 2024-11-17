@@ -1,21 +1,21 @@
 
-<div style="text-align: center;">
+<p align="center">
     <img src="https://psv4.userapi.com/s/v1/d/FXE4ZuW7S8AWLLjRMO873yPywQ40HiCkphiNBVxBpuaI3ftjXjxr9pRLFQKxc1c12aqPz0znRCgX81iBM7RDccbhz5Ro-uri6hesFvjEKV9Hc7E34zq_sg/full_logo.png" width="400" alt="Лого сайта">
-</div>
-<h2 style="text-align: center;">Хакатнон "Открывай Удмуритю" – Отборочный тур</h2>
-<p style="text-align: center;"><i>Команда "Авитаминоз"</i></p>
-<div style="text-align: center;">
+</p>
+<h2 align="center">Хакатнон "Открывай Удмуритю" – Отборочный тур</h2>
+<p align="center"><i>Команда "Авитаминоз"</i></p>
+<p align="center">
     <img src="https://sun9-62.userapi.com/impg/4N0RF-U0HTSTHXPDKOKCxvYUlqv2MvO5Fkwi7w/N1yiEhgghwc.jpg?size=1280x1280&quality=96&sign=c208d9a7f022088d81c506e6133e87f5&type=album" width="150" alt="Постер хакатона">
-</div><br><br>
+</p><br><br>
 
 📌<b>Задача:</b> разработать сайт по продвижению туристических услуг и/или
 основных достопримечательностей вашего региона.
 
 <img src="https://psv4.userapi.com/s/v1/d/G6Fmg8AFQV2fyf2jL022GqkRA5WJTbfHC_MdrYTUJr4l00nHLrra-SP-E1-IeRCZhj2keNENwkA-Ve3IFjwog2WmmWF_SmIkCaNrO3xsFTC30-BqY8wTMA/image_39.png" alt="Главная страница">
 
-<div style="text-align: center;">
+<p align="center">
     Главная страница
-</div>
+</p>
 
 ## Модули: 
 ```
